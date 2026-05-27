@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authuync",
+        "uuid": 13680750,
+        "checksum": "vtsawr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
